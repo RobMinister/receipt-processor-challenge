@@ -12,7 +12,7 @@ A web service that processes receipts and calculates reward points based on pred
 Open Git Bash and run:
 ```sh
 git clone https://github.com/RobMinister/receipt-processor-challenge.git
-cd receipt-processor
+cd receipt-processor-challenge
 ```
 
 ### **2. Build the Docker Image**
